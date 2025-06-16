@@ -8,7 +8,6 @@ int main(void) {
     int idades[] = {a, b, c};
     int maior = idades[0];
 
-
     for(int i=0; i<3; i++){
         if(idades[i]>maior){
         maior=idades[i];
